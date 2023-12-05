@@ -1,0 +1,201 @@
+[
+    {
+      "nome": "O Louco",
+      "interpretacao": "Um novo começo, aventura, energia livre e despreocupada.",
+      "profissional": "Explore novas oportunidades profissionais.",
+      "saude": "Cuidado com a impulsividade, preste atenção à sua saúde mental.",
+      "amor": "Emocionalmente livre, busca por novas experiências amorosas.",
+      "combinacao": "Combina bem com cartas que indicam mudanças e novos começos.",
+      "conselho": "Esteja aberto a novas possibilidades."
+    },
+    {
+      "nome": "O Mago",
+      "interpretacao": "Habilidade, poder, manifestação, recursos.",
+      "profissional": "Habilidades únicas podem ser destacadas em seu trabalho.",
+      "saude": "Preste atenção à sua energia e vitalidade.",
+      "amor": "Seja consciente de suas intenções em relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam manifestação e criação.",
+      "conselho": "Use suas habilidades de maneira positiva."
+    },
+    {
+      "nome": "A Sacerdotisa",
+      "interpretacao": "Intuição, mistério, subconsciente, reflexão.",
+      "profissional": "Confie em sua intuição no ambiente de trabalho.",
+      "saude": "Preste atenção aos sinais do seu corpo e mente.",
+      "amor": "Relações que envolvem uma conexão mais profunda podem surgir.",
+      "combinacao": "Combina bem com cartas que indicam mistério e introspecção.",
+      "conselho": "Busque respostas dentro de si mesmo."
+    },
+    {
+      "nome": "A Imperatriz",
+      "interpretacao": "Fertilidade, abundância, nutrição, amor maternal.",
+      "profissional": "Momento de crescimento e prosperidade na carreira.",
+      "saude": "Cuide de si mesmo e aproveite uma boa saúde.",
+      "amor": "Relacionamentos amorosos e familiares florescentes.",
+      "combinacao": "Combina bem com cartas que indicam abundância e criação.",
+      "conselho": "Aproveite os frutos de seu trabalho e relacionamentos."
+    },
+    {
+      "nome": "O Imperador",
+      "interpretacao": "Autoridade, estabilidade, organização, controle.",
+      "profissional": "Assuma a liderança em projetos profissionais.",
+      "saude": "Mantenha uma abordagem disciplinada para manter a saúde.",
+      "amor": "Estabilidade e segurança são fundamentais nos relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam controle e estabilidade.",
+      "conselho": "Assuma o controle e estabeleça limites quando necessário."
+    },
+    {
+      "nome": "O Hierofante",
+      "interpretacao": "Tradição, espiritualidade, orientação, conformidade.",
+      "profissional": "Busque orientação de mentores e líderes experientes.",
+      "saude": "Explore práticas espirituais para promover o bem-estar.",
+      "amor": "Relacionamentos baseados em valores e compromissos.",
+      "combinacao": "Combina bem com cartas que indicam orientação e ensino.",
+      "conselho": "Procure a sabedoria em tradições e ensinamentos."
+    },
+    {
+      "nome": "Os Enamorados",
+      "interpretacao": "Amor, escolhas importantes, união, equilíbrio.",
+      "profissional": "Tomada de decisões importantes no trabalho.",
+      "saude": "Escolhas saudáveis promovem equilíbrio e bem-estar.",
+      "amor": "Relacionamentos significativos e escolhas amorosas.",
+      "combinacao": "Combina bem com cartas que indicam decisões e equilíbrio.",
+      "conselho": "Pondere sobre suas escolhas e siga seu coração."
+    },
+    {
+      "nome": "O Carro",
+      "interpretacao": "Determinação, controle, vitória, superação de obstáculos.",
+      "profissional": "Superação de desafios e avanço profissional.",
+      "saude": "Controle disciplinado leva à vitória na saúde.",
+      "amor": "Superar obstáculos em relacionamentos, vitória no amor.",
+      "combinacao": "Combina bem com cartas que indicam determinação e controle.",
+      "conselho": "Mantenha o foco e siga em frente com determinação."
+    },
+    {
+      "nome": "A Justiça",
+      "interpretacao": "Equidade, justiça, tomada de decisão, responsabilidade.",
+      "profissional": "Decisões justas e responsáveis no ambiente de trabalho.",
+      "saude": "Equilíbrio na tomada de decisões para promover a saúde.",
+      "amor": "Relacionamentos baseados na justiça e na verdade.",
+      "combinacao": "Combina bem com cartas que indicam responsabilidade e equidade.",
+      "conselho": "Tome decisões com justiça e responsabilidade."
+    },
+    {
+      "nome": "O Eremita",
+      "interpretacao": "Reflexão, solidão voluntária, sabedoria, busca interior.",
+      "profissional": "Momento de reflexão e busca por sabedoria no trabalho.",
+      "saude": "Tempo de autocuidado e reflexão para promover a saúde.",
+      "amor": "Busca por respostas dentro de si mesmo em relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam introspecção e sabedoria.",
+      "conselho": "Retire-se temporariamente para buscar a verdade interior."
+    },
+    {
+      "nome": "A Roda da Fortuna",
+      "interpretacao": "Mudança, ciclos, sorte, destino.",
+      "profissional": "Mudanças positivas na carreira, aproveite os ciclos.",
+      "saude": "Aceite as mudanças naturais para promover a saúde.",
+      "amor": "Ciclos de sorte e mudanças nos relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam mudanças e sorte.",
+      "conselho": "Abrace as mudanças e confie no ciclo da vida."
+    },
+    {
+      "nome": "A Força",
+      "interpretacao": "Coragem, compaixão, controle gentil, força interior.",
+      "profissional": "Use a coragem e a compaixão para lidar com desafios no trabalho.",
+      "saude": "A força interior promove a saúde física e mental.",
+      "amor": "Relacionamentos fortalecidos por meio da compaixão e do controle gentil.",
+      "combinacao": "Combina bem com cartas que indicam coragem e controle.",
+      "conselho": "Confie em sua força interior para superar desafios."
+    },
+    {
+      "nome": "O Enforcado",
+      "interpretacao": "Sacrifício, rendição, perspectiva diferente, aceitação.",
+      "profissional": "Sacrifícios temporários podem levar a resultados positivos no trabalho.",
+      "saude": "Aceite mudanças e sacrifícios temporários para promover a saúde.",
+      "amor": "Perspectiva diferente e aceitação em relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam aceitação e sacrifício.",
+      "conselho": "Esteja disposto a ver as coisas de uma perspectiva diferente."
+    },
+    {
+      "nome": "A Morte",
+      "interpretacao": "Transformação, renascimento, fim de um ciclo, novos começos.",
+      "profissional": "Fim de uma fase no trabalho, prepare-se para um novo começo.",
+      "saude": "Transformação física ou mental leva a um novo começo na saúde.",
+      "amor": "Fim de um relacionamento ou fase, abra-se para novos começos.",
+      "combinacao": "Combina bem com cartas que indicam transformação e renascimento.",
+      "conselho": "Abra-se para a transformação e para novas oportunidades."
+    },
+    {
+      "nome": "A Temperança",
+      "interpretacao": "Equilíbrio, harmonia, moderação, paciência.",
+      "profissional": "Encontre equilíbrio e harmonia no ambiente de trabalho.",
+      "saude": "Moderação e paciência promovem uma vida saudável.",
+      "amor": "Relacionamentos equilibrados e harmoniosos.",
+      "combinacao": "Combina bem com cartas que indicam equilíbrio e moderação.",
+      "conselho": "Pratique a paciência e busque o equilíbrio."
+    },
+    {
+      "nome": "O Diabo",
+      "interpretacao": "Desejo material, tentação, prisão, libertação.",
+      "profissional": "Cuidado com desejos materiais excessivos no trabalho.",
+      "saude": "Evite excessos e tentações prejudiciais à saúde.",
+      "amor": "Relacionamentos baseados em desejos materiais podem ser prejudiciais.",
+      "combinacao": "Combina bem com cartas que indicam tentação e libertação.",
+      "conselho": "Liberte-se de desejos prejudiciais para alcançar a verdadeira liberdade."
+    },
+    {
+      "nome": "A Torre",
+      "interpretacao": "Mudança abrupta, revelação, destruição, reconstrução.",
+      "profissional": "Mudanças abruptas no trabalho, esteja preparado para reconstruir.",
+      "saude": "Reconstrução após uma crise promove a saúde.",
+      "amor": "Revelações e mudanças abruptas nos relacionamentos.",
+      "combinacao": "Combina bem com cartas que indicam destruição e reconstrução.",
+      "conselho": "Aceite as mudanças e veja a oportunidade na reconstrução."
+    },
+    {
+      "nome": "A Estrela",
+      "interpretacao": "Esperança, inspiração, renovação, guia espiritual.",
+      "profissional": "Inspiração e renovação no trabalho, siga seus objetivos.",
+      "saude": "A esperança e a renovação promovem a saúde mental.",
+      "amor": "Relacionamentos inspirados por esperança e renovação.",
+      "combinacao": "Combina bem com cartas que indicam inspiração e guia espiritual.",
+      "conselho": "Siga seus sonhos com esperança e inspiração."
+    },
+    {
+      "nome": "A Lua",
+      "interpretacao": "Ilusões, intuição, confusão emocional, mistério.",
+      "profissional": "Evite ilusões no trabalho e confie em sua intuição.",
+      "saude": "Cuidado com confusões emocionais, confie na sua intuição para a saúde.",
+      "amor": "Relacionamentos com elementos de mistério e intuição.",
+      "combinacao": "Combina bem com cartas que indicam ilusões e intuição.",
+      "conselho": "Confie em sua intuição e esteja atento a ilusões."
+    },
+    {
+      "nome": "O Sol",
+      "interpretacao": "Felicidade, sucesso, vitalidade, clareza.",
+      "profissional": "Sucesso e vitalidade no trabalho, clareza de propósito.",
+      "saude": "Boa saúde e vitalidade, aproveite a luz do sol.",
+      "amor": "Relacionamentos felizes e cheios de vitalidade.",
+      "combinacao": "Combina bem com cartas que indicam sucesso e clareza.",
+      "conselho": "Aproveite a luz do sol e celebre o sucesso."
+    },
+    {
+      "nome": "O Julgamento",
+      "interpretacao": "Julgamento, renascimento, revelação, avaliação.",
+      "profissional": "Avaliação e renascimento no trabalho, reveja suas escolhas.",
+      "saude": "Momento de avaliar e promover o renascimento na saúde.",
+      "amor": "Julgamento e revelação nos relacionamentos, avalie suas escolhas.",
+      "combinacao": "Combina bem com cartas que indicam avaliação e renascimento.",
+      "conselho": "Avalie suas ações e abra-se para o renascimento."
+    },
+    {
+      "nome": "O Mundo",
+      "interpretacao": "Realização, conclusão, sucesso, viagem completa.",
+      "profissional": "Realização e sucesso profissional, conclusão de um ciclo.",
+      "saude": "Sucesso e conclusão na busca pela saúde ideal.",
+      "amor": "Relacionamentos bem-sucedidos e completos.",
+      "combinacao": "Combina bem com cartas que indicam sucesso e conclusão.",
+      "conselho": "Celebre suas realizações e abra-se para novos ciclos."
+    }
+  ]
+  
